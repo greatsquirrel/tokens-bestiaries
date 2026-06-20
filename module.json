@@ -1,53 +1,53 @@
-{
-   "id": "pf2e-tokens-bestiaries",
-   "title": "Pathfinder Tokens: Bestiaries",
-   "description": "<p>This all-in-one pack includes token artwork and portraits for every single creature in Pathfinder Second Edition's Bestiary 1, Bestiary 2, and Bestiary 3!</p> <p>The tokens are lovingly handmade to make full use of FoundryVTT's features, and are seamlessly inserted into your system compendiums.</p> <p>The pack ensures that no creature is left without a token by including unique custom artwork seen nowhere else!</p>",
-   "authors": [
-      {
-         "name": "Ian Hildebrandt",
-         "discord": "SpartanCPA#0699"
-       },
-       {
-         "name": "Viviane Charlier",
-         "discord": "Cora#0642",
-         "url": "https://foundryvtt.com"
-       },
-      {
-         "name": "Shane Martland",
-         "discord": "Anathema#3668",
-         "url": "https://foundryvtt.com"
-       }
-  ],
-   "version": "1.2.0",
-   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
-   },
-   "media": [
-      {
-          "type": "setup",
-          "caption": "Token Pack: Bestiaries",
-          "thumbnail": "modules/pf2e-tokens-bestiaries/other/thumbnail.webp"
-      }
-   ],
-   "flags": {
-      "compendiumArtMappings": {
-         "pf2e": {
-            "mapping": "modules/pf2e-tokens-bestiaries/map-pf2e.json",
-            "credit": "<em>Portrait, token, and subject artwork from Pathfinder Tokens: Bestiaries.</em>"
-         }
-      },
-      "tokenRingSubjectMappings": {
-        "modules/pf2e-tokens-bestiaries/tokens/": "modules/pf2e-tokens-bestiaries/subjects/"
-      },
-      "pf2e-tokens-bestiaries": {
-         "dnd5e-art": "modules/pf2e-tokens-bestiaries/map-dnd5e.json",
-         "dnd5e-art-credit": "<em>Portrait, token, and subject artwork from Pathfinder Tokens: Bestiaries.</em>",
-         "archmage-art": "modules/pf2e-tokens-bestiaries/map-archmage.json",
-         "swade-art": "modules/pf2e-tokens-bestiaries/map-swpf.json",
-         "shadowdark-art": "modules/pf2e-tokens-bestiaries/map-shadowdark.json"
-      }
-   },
-   "protected": false,
-   "manifest": ""
+﻿{
+    "id":  "pf2e-tokens-bestiaries",
+    "title":  "Pathfinder Tokens: Bestiaries",
+    "description":  "\u003cp\u003eThis all-in-one pack includes token artwork and portraits for every single creature in Pathfinder Second Edition\u0027s Bestiary 1, Bestiary 2, and Bestiary 3!\u003c/p\u003e \u003cp\u003eThe tokens are lovingly handmade to make full use of FoundryVTT\u0027s features, and are seamlessly inserted into your system compendiums.\u003c/p\u003e \u003cp\u003eThe pack ensures that no creature is left without a token by including unique custom artwork seen nowhere else!\u003c/p\u003e",
+    "authors":  [
+                    {
+                        "name":  "Ian Hildebrandt",
+                        "discord":  "SpartanCPA#0699"
+                    },
+                    {
+                        "name":  "Viviane Charlier",
+                        "discord":  "Cora#0642",
+                        "url":  "https://foundryvtt.com"
+                    },
+                    {
+                        "name":  "Shane Martland",
+                        "discord":  "Anathema#3668",
+                        "url":  "https://foundryvtt.com"
+                    }
+                ],
+    "version":  "1.2.0",
+    "compatibility":  {
+                          "minimum":  "12",
+                          "verified":  "12"
+                      },
+    "media":  [
+                  {
+                      "type":  "setup",
+                      "caption":  "Token Pack: Bestiaries",
+                      "thumbnail":  "modules/pf2e-tokens-bestiaries/other/thumbnail.webp"
+                  }
+              ],
+    "flags":  {
+                  "compendiumArtMappings":  {
+                                                "pf2e":  {
+                                                             "mapping":  "modules/pf2e-tokens-bestiaries/map-pf2e.json",
+                                                             "credit":  "\u003cem\u003ePortrait, token, and subject artwork from Pathfinder Tokens: Bestiaries.\u003c/em\u003e"
+                                                         }
+                                            },
+                  "tokenRingSubjectMappings":  {
+                                                   "modules/pf2e-tokens-bestiaries/tokens/":  "modules/pf2e-tokens-bestiaries/subjects/"
+                                               },
+                  "pf2e-tokens-bestiaries":  {
+                                                 "dnd5e-art":  "modules/pf2e-tokens-bestiaries/map-dnd5e.json",
+                                                 "dnd5e-art-credit":  "\u003cem\u003ePortrait, token, and subject artwork from Pathfinder Tokens: Bestiaries.\u003c/em\u003e",
+                                                 "archmage-art":  "modules/pf2e-tokens-bestiaries/map-archmage.json",
+                                                 "swade-art":  "modules/pf2e-tokens-bestiaries/map-swpf.json",
+                                                 "shadowdark-art":  "modules/pf2e-tokens-bestiaries/map-shadowdark.json"
+                                             }
+              },
+    "protected":  false,
+    "manifest":  "https://raw.githubusercontent.com/greatsquirrel/tokens-bestiaries/main/module.json"
 }
