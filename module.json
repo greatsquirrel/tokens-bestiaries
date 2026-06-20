@@ -49,5 +49,6 @@
       }
    },
    "protected": false,
-   "manifest": ""
+   "manifest": "https://raw.githubusercontent.com/greatsquirrel/tokens-bestiaries/main/module.json",
+  "download": "https://github.com/greatsquirrel/tokens-bestiaries/releases/download/v1.2.0/tokens-bestiaries.zip"
 }
